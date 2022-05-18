@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeff</h1>
 <h3 align="center">A passionate frontend developer from China/Australia</h3>
 
-- 👯 I am a former junior telecom engineer who always has great passion in web development and are going to switch my career
+- 👯 I am a former junior telecom engineer who always have great passion in web development and are going to switch my career
 
 - 🤝 I am looking for a Junior Web Developer role for developing innovative WebApp & services that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create reliable and highly scalable systems—always following software engineering best practices and code testing. I always look for challenges where I can use my potential most and always love to work on cutting-edge technologies.
 
