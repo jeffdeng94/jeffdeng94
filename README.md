@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeff</h1>
-<h3 align="center">A passionate frontend developer from China/Australia</h3>
+<h3 align="center">A passionate web developer from China/Australia</h3>
 
 - 👯 I am a former junior telecom engineer who always have great passion in web development and are going to switch my career
 
