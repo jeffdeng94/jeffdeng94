@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/qiqin-jeff-deng-28b731149/](https://www.linkedin.com/in/qiqin-jeff-deng-28b731149/)
 
-- ⚡ Fun fact **I am sacared of snake**
+- ⚡ Fun fact **I am scared of snake**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
