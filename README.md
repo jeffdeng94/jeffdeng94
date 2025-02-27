@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jeff</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 👯 I am a former junior telecom engineer who always have great passion in web development and are going to switch my career
+- 👯 I am a software engineer who always has great passion in developing innovative WebApp & services that expedite the efficiency and effectiveness of organizational success. 
 
-- 🤝 I am looking for a Junior Web Developer role for developing innovative WebApp & services that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create reliable and highly scalable systems—always following software engineering best practices and code testing. I always look for challenges where I can use my potential most and always love to work on cutting-edge technologies.
+- 🤝 I always look for challenges where I can use my potential most and always love to work on cutting-edge technologies.
 
-- 🔭 I’m currently working on [Memories App](https://jeffdeng-memories-app.netlify.app/)
+- 🌱 I’m currently learning **.NET, AWS and many more**
 
-- 🌱 I’m currently learning **Jest, Docker and many more**
-
-- 💬 Ask me about **React, CSS**
+- 💬 Ask me about **Angular, Java, React, CSS**
 
 - 📫 How to reach me **tangkaiyam@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/qiqin-jeff-deng-28b731149/](https://www.linkedin.com/in/qiqin-jeff-deng-28b731149/)
 
-- ⚡ Fun fact **I love big dog**
+- ⚡ Fun fact **I am sacared of snake**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
